@@ -3,6 +3,7 @@ package com.elms.backend.model;
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;
 import lombok.Data;
+import com.elms.backend.model.Course;
 
 @Entity
 @Table(name = "quizzes")
