@@ -1,0 +1,3 @@
+[submodule "elms-mysql-project"]
+	path = elms-mysql-project
+	url = https://github.com/Yashu0610/elms-mysql-project.git
